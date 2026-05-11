@@ -1,0 +1,14 @@
+[
+  {
+    "role": "engineer",
+    "query": "Explain how RAG works in this system."
+  },
+  {
+    "role": "pm",
+    "query": "Explain the user workflow for this agent."
+  },
+  {
+    "role": "business",
+    "query": "What business value does this system provide?"
+  }
+]
