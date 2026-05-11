@@ -1,8 +1,0 @@
-retrieval:
-  chunk_size_words: 220
-  chunk_overlap_words: 50
-  bm25_top_k: 8
-  vector_top_k: 8
-  rerank_top_k: 5
-  embedding_model: sentence-transformers/all-MiniLM-L6-v2
-  reranker_model: cross-encoder/ms-marco-MiniLM-L-6-v2
